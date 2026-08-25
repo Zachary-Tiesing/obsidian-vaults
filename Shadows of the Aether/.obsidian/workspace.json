@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b60a9d3647e842ac",
+        "id": "fd96332c25eba93b",
         "type": "tabs",
         "children": [
           {
-            "id": "00852fc108045ab3",
+            "id": "50353ae1808df845",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,7 +179,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "388dbd75d056ad37",
