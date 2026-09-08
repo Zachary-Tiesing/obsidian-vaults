@@ -11,22 +11,32 @@
             "id": "fbb3b0249eaae455",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "0.DM Screen/0.DM Screen.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    null,
-                    false
-                  ]
-                }
+                "file": "4. Session Journals/Session Journal 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "0.DM Screen"
+              "icon": "lucide-file",
+              "title": "Session Journal 1"
+            }
+          },
+          {
+            "id": "cda2966125aaa30c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Session Journals/2026-09-07.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-07"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,11 +204,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fbb3b0249eaae455",
+  "active": "6c64fdc4e7947b52",
   "lastOpenFiles": [
+    "4. Session Journals/Session Journal 1.md",
+    "z_Templates/Session Journal Template.md",
+    "4. Session Journals/2026-09-07.md",
+    "4. Session Journals/# Session 2026-08-31.md",
     "4. Session Journals/2026-08-24.md",
-    "2. Mechanics/Conditions/Unconscious.md",
     "0.DM Screen/0.DM Screen.md",
+    "2. Mechanics/Conditions/Unconscious.md",
     "1. World Almanac/World/World.md",
     "1. World Almanac/Modules/README.md",
     "0.DM Screen/Conditions Quick Reference.md",
@@ -206,7 +220,6 @@
     "2. Mechanics/Abilities/Skills/Athletics.md",
     "2. Mechanics/Actions in Combat/Actions in Combat.md",
     "2. Mechanics/Combat/Concentration.md",
-    "4. Session Journals/Session Journal 1.md",
     "2. Mechanics/Conditions/Blinded.md",
     "2. Mechanics/Conditions/Incapacitated.md",
     "2. Mechanics/Classes/Subclasses/Oath of Devotion.md",
@@ -216,12 +229,9 @@
     "2. Mechanics/Spells/Spells.md",
     "2. Mechanics/Health & Recovery/Resting.md",
     "0.DM Screen/Combat Quick Reference.md",
-    "z_Templates/Session Journal Template.md",
     "2. Session Journals/Untitled 1.md",
     "2. Session Journals/README.md",
-    "Untitled.md",
     "Silvia.md",
-    "4. Session Journals/2026-08-31.md",
     "2. Mechanics/Races/Subraces",
     "2. Mechanics/Races",
     "2. Mechanics/Classes/Subclasses",
