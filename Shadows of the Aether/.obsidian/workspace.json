@@ -11,10 +11,19 @@
             "id": "50353ae1808df845",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "0.DM Screen/0.DM Screen.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    null,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "0.DM Screen"
             }
           }
         ]
@@ -180,11 +189,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "388dbd75d056ad37",
+  "active": "50353ae1808df845",
   "lastOpenFiles": [
+    "2. Mechanics/Combat/Combat.md",
+    "0.DM Screen/0.DM Screen.md",
+    "2. Mechanics/Races/Races.md",
+    "2. Mechanics/Races/Dragonborn.md",
+    "1. World Almanac/World/DrakenShroud/The Black Lantern Murder.md",
+    "Tavian Rusk.md",
+    "1. World Almanac/World/DrakenShroud/Project Cinderwake.md",
+    "1. World Almanac/World/DrakenShroud/Aftermath of Reth Varn's Assassination.md",
+    "Reth Varn.md",
+    "1. World Almanac/World/World.md",
+    "1. World Almanac/World/Untitled",
     "z_Templates",
     "z_Assests",
     "6. Session Journals",
